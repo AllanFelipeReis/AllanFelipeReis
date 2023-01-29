@@ -8,14 +8,6 @@ My name is Allan and I'm a Full Stack Developer from Brazil!
 💻 I'm currently working with PHP, VueJS and MySQL<br>
 🗒️ I'm studying Laravel, Docker and React
 
-### Github Stats
-
-![AllanFelipeReis's GitHub stats](https://github-readme-stats.vercel.app/api?username=AllanFelipeReis&show_icons=true&theme=dracula)
-
-### Top Langs
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=AllanFelipeReis&show_icons=true&theme=dracula&layout=compact)
-
 ### Tech Stack:
 
 <div align="left">
@@ -36,3 +28,11 @@ My name is Allan and I'm a Full Stack Developer from Brazil!
   <img src="https://uploaddeimagens.com.br/images/004/312/203/full/github.png?1674666543" height="40" width="52" alt="github logo"  />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"/>
 </div>
+
+### Github Stats
+
+![AllanFelipeReis's GitHub stats](https://github-readme-stats.vercel.app/api?username=AllanFelipeReis&show_icons=true&theme=dracula)
+
+### Top Langs
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=AllanFelipeReis&show_icons=true&theme=dracula&layout=compact)
