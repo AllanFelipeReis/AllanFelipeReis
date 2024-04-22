@@ -31,7 +31,7 @@ I'm Allan, a Full Stack Developer from Brazil!
 
 ### Contact Me 📫
 
-- LinkedIn: [Allan Reis](https://www.linkedin.com/in/allan-reis-446a42162)
+- LinkedIn: [Allan Reis](https://www.linkedin.com/in/allan-felipe-reis)
 - Email: allanreis3006@gmail.com
 
 ### Github Stats 📈
