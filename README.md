@@ -33,11 +33,3 @@ I'm Allan, a Full Stack Developer from Brazil!
 
 - LinkedIn: [Allan Reis](https://www.linkedin.com/in/allan-felipe-reis)
 - Email: allanreis3006@gmail.com
-
-### Github Stats 📈
-
-![AllanFelipeReis's GitHub stats](https://github-readme-stats.vercel.app/api?username=AllanFelipeReis&show_icons=true&theme=dracula)
-
-### Top Languages 🔝
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AllanFelipeReis&layout=compact&theme=dracula)
